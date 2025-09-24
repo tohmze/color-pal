@@ -6,3 +6,5 @@ Steps to use:
 3. paste the API KEY into the .env file
 4. type in the folder in the command line .env/Scripts/Activate
 5. then type flask run
+
+[@tohmze](https://github.com/tohmze)
